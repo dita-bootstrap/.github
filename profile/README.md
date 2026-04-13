@@ -1,6 +1,6 @@
 # DITA Bootstrap
 
-DITA Bootstrap is a series of plug-ins for [DITA Open Toolkit][1] that extend HTML and PDF output with [Bootstrap][2] templating,
+DITA Bootstrap is a series of plug-ins for [DITA Open Toolkit][1] that extend HTML and PDF output with [Bootstrap][2] templating;
 alternate [Bootswatch][3] themes are also supported.
 
 ```console
